@@ -4,5 +4,6 @@ yfinance
 datetime
 seaborn
 matplotlib.pyplot
-streamlit
 statsmodels.tsa.stattools
+numpy
+pykalman
