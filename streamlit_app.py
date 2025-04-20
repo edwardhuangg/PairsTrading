@@ -1,7 +1,6 @@
 import pandas as pd
 import yfinance as yf
 from datetime import datetime
-import seaborn as sn
 import matplotlib.pyplot as plt
 import streamlit as st
 import statsmodels.tsa.stattools as ts
