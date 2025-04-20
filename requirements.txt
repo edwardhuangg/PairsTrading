@@ -2,7 +2,6 @@ streamlit
 pandas
 yfinance
 datetime
-seaborn
 matplotlib.pyplot
 statsmodels.tsa.stattools
 numpy
